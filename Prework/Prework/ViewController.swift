@@ -84,6 +84,8 @@ class ViewController: UIViewController {
         view.backgroundColor = UIColor.tintColor
         TextLabel.textColor = UIColor.white
         TXstring.text = "Hello from Leo🦁"
+        buttonCounter = 0
+        buttonCount = 0
     }
     
     
